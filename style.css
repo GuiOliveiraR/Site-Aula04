@@ -1,0 +1,26 @@
+body{
+    background-image: url("fuscao.jpg");
+    background-size: cover;
+}
+header{
+    color:black;
+    border-style: double;
+    border-color: white;
+}
+footer{
+     
+    color: rgb(5, 5, 5);
+    border-style: solid;
+    border-color: white;
+}
+ul{
+    color: white;
+    border-style: solid;
+    border-color: white;
+}
+.carro1{
+    color: rgb(0, 0, 0)
+}
+#exemplo{
+    color:black
+}
